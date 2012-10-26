@@ -1,0 +1,8 @@
+h1. Python unshredder
+
+Installing PIL on OSX can be hard:
+http://www.brantsteen.com/blog/python-27-libjpeg-pil-on-osx/
+
+Instagram unshredder challenge
+
+http://instagram-engineering.tumblr.com/post/12651721845/instagram-engineering-challenge-the-unshredder
